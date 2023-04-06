@@ -176,6 +176,10 @@ p {
         font-size: 40px;
     }
 
+    .p {
+        font-size: 5px;
+    }
+
     .sau {
         height: 120vh;
     }
