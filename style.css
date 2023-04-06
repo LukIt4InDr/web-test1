@@ -170,10 +170,10 @@ p {
     padding-bottom: 0;
 }
 
-@media (max-width:768px) {
+@media (max-width:720px) {
     .tittle {
         margin-bottom: 0;
-        font-size: 20px;
+        font-size: 40px;
     }
 
     .sau {
